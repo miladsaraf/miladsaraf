@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Milad Saraf
 
-<!--
-**miladsaraf/miladsaraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Engineering Lead · Applied AI · LLM Agents · RAG · Software Architecture**
 
-Here are some ideas to get you started:
+I design and develop AI-powered applications and the software systems behind them—from retrieval and tool-using agents to APIs, data integrations, and deployment workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Founder & Lead AI Engineer at [Datanito](https://datanito.com), where my work spans applied AI products, AI workers, CRM/ERP integrations, and intelligent automation.
+
+## What I work on
+
+- **Applied AI:** LLM integrations, RAG, AI agents, workflows, model APIs
+- **Engineering:** Python, REST APIs, PHP/Laravel, MySQL, JavaScript
+- **Infrastructure:** Docker, Linux, CI/CD, application integration
+- **Product delivery:** Architecture, prototyping, deployment, and support
+
+## Selected work
+
+- [Projects and engineering case studies](https://miladsaraf.com/projects)
+- [Datanito AI products and services](https://datanito.com)
+- [Dino — historical public repository](https://github.com/datanito/Dino)
+
+I'm particularly interested in reliable agent workflows, retrieval evaluation, tool integrations, and production-oriented AI engineering.
+
+**Explore work:** https://miladsaraf.com/projects
+
+**Professional profile:** https://www.linkedin.com/in/miladsaraf/
+
+**Contact:** https://miladsaraf.com/contact
